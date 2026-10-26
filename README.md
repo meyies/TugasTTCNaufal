@@ -54,3 +54,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## 📱 Preview Aplikasi
+
+| Tampilan 1 | Tampilan 2 |
+| :---: | :---: |
+| <img src="./WhatsApp Image 2026-10-26 at 15.09.03.jpeg" alt="Preview 1" width="250" /> | <img src="./WhatsApp Image 2026-10-26 at 15.09.031.jpeg" alt="Preview 2" width="250" /> |
